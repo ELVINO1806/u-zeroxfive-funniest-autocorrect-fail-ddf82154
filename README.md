@@ -22,3 +22,7 @@ cat /output/entry.txt
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+![Competition](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154.svg)
+![Rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/ELVINO1806/u-zeroxfive-funniest-autocorrect-fail-ddf82154/rank.svg)
+![Reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/ELVINO1806/u-zeroxfive-funniest-autocorrect-fail-ddf82154/reward.svg)
